@@ -1,0 +1,19 @@
+.container-cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 60px;
+}
+
+.cards {
+    height: auto;
+    width: 50vw;
+    background-color: #ffffff;
+    padding: 20px 20px;
+}
+
+.cards-header {
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+}
